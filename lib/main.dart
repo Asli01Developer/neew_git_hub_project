@@ -4,7 +4,7 @@ void main() {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Widget G8",
+      title: "Home Work 1",
       home: Scaffold(
         body: Center(
           child: Container(
@@ -22,7 +22,7 @@ void main() {
                   color: Colors.lightBlueAccent,
                 ),
                 Padding(
-                  padding: const EdgeInsets.all(10),
+                  padding:  const  EdgeInsets.all(10),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: [
